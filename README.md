@@ -3,7 +3,12 @@
 
 ### ***Amazon***
 
-**Program motive :-** Storing the user favourite items details into csv file
+**Program motive :-**   
+   ***Amazon.py***
+         Storing the user favourite items details from the first page  into csv file.
+   ***Amazon_updated.py***
+         Storing the user favourite items details from minimum 5 pages into csv file.
+            if user wants to increase the count of page , he/she can edit the python program where (if page==6).
 
 **Pre-requisite things :**
    - pip install bs4
